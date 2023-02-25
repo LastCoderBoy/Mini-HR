@@ -1,0 +1,13 @@
+C:\Users\TEXNO\source\repos\Project2_HR\bin\Debug\Project2_HR.exe.config
+C:\Users\TEXNO\source\repos\Project2_HR\bin\Debug\Project2_HR.exe
+C:\Users\TEXNO\source\repos\Project2_HR\bin\Debug\Project2_HR.pdb
+C:\Users\TEXNO\source\repos\Project2_HR\obj\Debug\Project2_HR.csproj.AssemblyReference.cache
+C:\Users\TEXNO\source\repos\Project2_HR\obj\Debug\Project2_HR.AddCandidate.resources
+C:\Users\TEXNO\source\repos\Project2_HR\obj\Debug\Project2_HR.Form1.resources
+C:\Users\TEXNO\source\repos\Project2_HR\obj\Debug\Project2_HR.Properties.Resources.resources
+C:\Users\TEXNO\source\repos\Project2_HR\obj\Debug\Project2_HR.csproj.GenerateResource.cache
+C:\Users\TEXNO\source\repos\Project2_HR\obj\Debug\Project2_HR.csproj.CoreCompileInputs.cache
+C:\Users\TEXNO\source\repos\Project2_HR\obj\Debug\Project2_HR.exe
+C:\Users\TEXNO\source\repos\Project2_HR\obj\Debug\Project2_HR.pdb
+C:\Users\TEXNO\source\repos\Project2_HR\obj\Debug\Project2_HR.Decision.resources
+C:\Users\TEXNO\source\repos\Project2_HR\obj\Debug\Project2_HR.AllEmployees.resources
